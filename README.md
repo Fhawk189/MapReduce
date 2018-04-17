@@ -1,2 +1,3 @@
 # MapReduce
 MapReduce对大数据简单处理
+这个程序使用的是windows的更新日志文件
